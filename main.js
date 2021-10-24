@@ -3,7 +3,7 @@ const LinksSocialMedia = {
     youtube: '',
     facebook: '',
     instagram: 'bruno.ro7c',
-    twitter: ''
+    twitter: '#'
 }
 
 function changeSocialMediaLinks() {
