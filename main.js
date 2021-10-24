@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
     github: 'brunoro7',
-    youtube: '',
-    facebook: '',
+    youtube: '#',
+    facebook: '#',
     instagram: 'bruno.ro7c',
     twitter: '#'
 }
