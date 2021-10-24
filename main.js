@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
     github: 'brunoro7',
-    youtube: 'brunoro7',
-    facebook: 'brunoro7',
+    youtube: '',
+    facebook: '',
     instagram: 'bruno.ro7c',
-    twitter: 'brunoro7'
+    twitter: ''
 }
 
 function changeSocialMediaLinks() {
